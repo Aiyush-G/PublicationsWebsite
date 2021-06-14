@@ -15,9 +15,5 @@ social:
   youtube: "#"
   
 taxonomies:
-  authors:
-    - Aiyush Gupta
-    - Publications
-    - EOY 2021
-    - Hugo Authors
+  authors: authors
 

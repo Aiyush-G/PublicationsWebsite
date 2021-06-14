@@ -1,13 +1,22 @@
 baseURL: "https://aiyush-g.github.io/PublicationsWebsite/"
 languageCode: "en-us"
-title: "Hugo Novela"
+title: "AGSB Publications Committee"
 pygmentsstyle: "monokai"
 
 theme: hugo-theme-novela
 paginate: 6
+
 social:
-  twitter: "FrankTLDR"
-  github: "DirtyF"
+  twitter: "#"
+  github: "#"
+  instagram: "#"
+  linkedin: "#"
+  dribbble: "#"
+  youtube: "#"
+  
 taxonomies:
-  author: authors
+  authors:
+    - Aiyush Gupta
+    - Publications
+    - EOY 2021
 
